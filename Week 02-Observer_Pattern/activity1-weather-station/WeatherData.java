@@ -1,9 +1,8 @@
-// ============================================================
+ ============================================================
 // CONCRETE SUBJECT — WeatherData
 // ============================================================
 import java.util.ArrayList;
 import java.util.List;
-
 public class WeatherData implements Subject {
 
     // The list of registered observers.
