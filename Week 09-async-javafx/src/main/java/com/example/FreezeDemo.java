@@ -25,16 +25,13 @@ public class FreezeDemo extends Application {
             }
             statusLabel.setText("Done!");
         });
-
         VBox root = new VBox(20, freezeButton, statusLabel);
         root.setStyle("-fx-padding: 20; -fx-alignment: center;");
-
         Scene scene = new Scene(root, 400, 200);
         primaryStage.setTitle("The Freeze Demo");
         primaryStage.setScene(scene);
         primaryStage.show();
     }
-
     public static void main(String[] args) {
         launch(args);
     }
