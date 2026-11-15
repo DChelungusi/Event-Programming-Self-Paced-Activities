@@ -1,0 +1,5 @@
+Java and FXML source transcribed from Week 10 PDF, preserving lecturer code and comments. PDF visual line wraps joined where necessary.
+The lecturer supplies only a MySQL dependency snippet, not a complete pom.xml; the included Maven scaffold is additional.
+DatabaseUtil.java deliberately retains PASSWORD = "your_password" as printed. Configure locally before running.
+The PDF StudentView.fxml references HBox without importing it; this has been retained exactly as shown and may cause FXML load failure.
+The PDF uses MySQL Connector/J although XAMPP commonly ships MariaDB; compatibility may need checking.
