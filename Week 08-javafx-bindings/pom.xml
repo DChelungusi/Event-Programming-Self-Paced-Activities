@@ -6,7 +6,6 @@
     <groupId>com.example</groupId>
     <artifactId>week08-javafx-bindings</artifactId>
     <version>1.0-SNAPSHOT</version>
-
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>21</maven.compiler.release>

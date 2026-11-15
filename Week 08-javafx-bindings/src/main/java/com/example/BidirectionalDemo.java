@@ -10,7 +10,7 @@ import javafx.stage.Stage;
 
 public class BidirectionalDemo extends Application {
 
-    @Override
+ @Override
     public void start(Stage primaryStage) {
         Label instruction = new Label("Drag the slider or type a number:");
 
