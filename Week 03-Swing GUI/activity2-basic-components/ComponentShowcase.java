@@ -7,22 +7,18 @@
 // ============================================================
 import javax.swing.*;
 import java.awt.*;
-
 public class ComponentShowcase {
-
     public static void main(String[] args) {
         SwingUtilities.invokeLater(() -> createAndShow());
     }
-
     private static void createAndShow() {
         JFrame frame = new JFrame("Component Showcase");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(600, 500);
         frame.setLocationRelativeTo(null);
-
         // Use a vertical grid layout: 8 rows, 1 column
         frame.setLayout(new GridLayout(8, 1, 10, 10));
-
+        
         // 1. JLabel
         JLabel titleLabel = new JLabel("Component Showcase", SwingConstants.CENTER);
         titleLabel.setFont(new Font("Arial", Font.BOLD, 20));
