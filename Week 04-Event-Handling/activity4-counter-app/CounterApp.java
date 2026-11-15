@@ -24,7 +24,7 @@ public class CounterApp {
         frame.setSize(400, 400);
         frame.setLocationRelativeTo(null);
         frame.setLayout(new BorderLayout(10, 10));
-
+        
         // Display (CENTER)
         countLabel = new JLabel("0", SwingConstants.CENTER);
         countLabel.setFont(new Font("Arial", Font.BOLD, 72));
