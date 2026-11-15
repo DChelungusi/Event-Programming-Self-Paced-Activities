@@ -18,6 +18,7 @@ public class ProceduralCalculator {
  System.out.print("Enter second number: ");
  double num2 = scanner.nextDouble();
 
+ 
  // Step 4: Calculate
  double result = 0;
  switch (operator) {
