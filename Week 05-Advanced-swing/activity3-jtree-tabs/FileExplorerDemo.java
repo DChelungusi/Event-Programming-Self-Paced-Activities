@@ -53,7 +53,7 @@ public class FileExplorerDemo {
 
             // PART 2: JTabbedPane (right content)
             JTabbedPane tabs = new JTabbedPane();
-
+            
             // Tab 1: General
             JPanel generalTab = new JPanel();
             generalTab.setLayout(new BoxLayout(generalTab, BoxLayout.Y_AXIS));
