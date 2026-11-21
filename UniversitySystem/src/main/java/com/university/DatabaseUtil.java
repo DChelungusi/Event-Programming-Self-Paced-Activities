@@ -8,10 +8,11 @@ import java.sql.SQLException; // Imports SQLException to handle database errors
 
 // This class handles the connection to the database
 
+
 public class DatabaseUtil {
 // The URL of the database. "university_db" is the name we created in Phase 1
 
-    private static final String URL = "jdbc:mysql://localhost:3306/university_db";
+    private static final String URL = "jdbc:mysql://localhost:3307/university_db";
 
     // The default username for MySQL
 
@@ -19,7 +20,7 @@ public class DatabaseUtil {
 
     //      CHANGE THIS TO YOUR ACTUAL MYSQL PASSWORD
 
-    private static final String PASSWORD = "your_password";
+    private static final String PASSWORD = "";
 
     // This method returns a Connection object. It throws SQLException if it fails.
 
