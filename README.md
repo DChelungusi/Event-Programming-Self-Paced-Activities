@@ -1,17 +1,17 @@
-Event-Driven Programming-Self-Paced-Activities
+## Event-Driven Programming-Self-Paced-Activities
 
 This repository contains my weekly practical activities and projects for the Event-Driven Programming unit at Riara University, completed during the September–December 2026 semester.
 
-Student Details
+## Student Details
 
-Name: Damaris Chelungusi
-Student Number: 25ZAD1111101
-Course: Bachelor of Business Information Technology (BBIT)
-Unit: RBCS 7312 – Event Programming
-Lecturer: Florence Kimani
+## Name: Damaris Chelungusi
+## Student Number: 25ZAD1111101
+## Course: Bachelor of Business Information Technology (BBIT)
+## Unit: RBCS 7312 – Event Programming
+## Lecturer: Florence Kimani
 
 
-Weekly Activities
+## Weekly Activities
 
 | Week | Topic |
 |---|---|
@@ -27,7 +27,7 @@ Weekly Activities
 | 10 | University Management System |
 
 
-Tools and Technologies Used
+## Tools and Technologies Used
 
 - Java
 - Visual Studio Code
@@ -39,7 +39,7 @@ Tools and Technologies Used
 - JDBC
 - Git and GitHub
 
-Week 10: University Management System
+## Week 10: University Management System
 
 The final project is a University Management System developed using JavaFX and MySQL.
 
