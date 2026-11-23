@@ -2,13 +2,15 @@
 
 This repository contains my weekly practical activities and projects for the Event-Driven Programming unit at Riara University, completed during the September–December 2026 semester.
 
+
+
 ## Student Details
 
-## Name: Damaris Chelungusi
-## Student Number: 25ZAD1111101
-## Course: Bachelor of Business Information Technology (BBIT)
-## Unit: RBCS 7312 – Event Programming
-## Lecturer: Florence Kimani
+- **Name:** **Damaris Chelungusi**
+- **Student Number:** **25ZAD1111101**
+- **Course:** Bachelor of Business Information Technology (BBIT)
+- **Unit:** **RBCS 7312 – Event Programming**
+- **Lecturer:** **Florence Kimani**
 
 
 ## Weekly Activities
