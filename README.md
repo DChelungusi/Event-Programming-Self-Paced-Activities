@@ -1,7 +1,15 @@
+## Week 10 – Application Demonstration
+
+A short demonstration of the University Management System in action.
+
+
+https://github.com/user-attachments/assets/728c5420-bc42-4b69-9b56-92e5c4fa2cd9
+
+
+
 ## Event-Driven Programming-Self-Paced-Activities
 
 This repository contains my weekly practical activities and projects for the Event-Driven Programming unit at Riara University, completed during the September–December 2026 semester.
-
 
 
 ## Student Details
